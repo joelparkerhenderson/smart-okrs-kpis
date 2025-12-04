@@ -13,11 +13,11 @@ SMART OKRs combines the strengths of SMART criteria for goals and the strengths 
 
 SMART criteria for goals:
 
-- **Specific**: target one area clearly, precisely, and explicitly.
-- **Measurable(**: quantify progress toward success by using metrics.
-- **Actionable/Achieveable**: able to start, sustain, and complete.
-- Relevant: closely connected to what's happening and being considered.
-- **Timely**: occurring at a time that is favorable, reservable, and bounded.
+- **Specific/Strategic**: target one area clearly, precisely, and explicitly.
+- **Measurable/Motivating**: quantify progress toward success by using metrics.
+- **Actionable/Ambitious**: able to start, sustain, and complete.
+- **Relevant**: closely connected to what's happening and being considered.
+- **Timely/Tactical**: occurring at a time that is favorable, reservable, and bounded.
 
 OKRs for management plans:
 
@@ -35,7 +35,7 @@ For a quickstart, here's a quick template and quick example. You can see many mo
 
 ### SMART OKR template
 
-Objective: {action} {topic} {amount} {time frame}. {measure by}. {SMART details if more info is needed}.
+Objective: {Do this action} {about this topic} {for this amount} {in this time frame}. {Measure by metric}. {Add any SMART details if more info is needed}.
 
 Key Result: {output/outcome/impact}. {measure by}. {SMART details if more info is needed}.
 
