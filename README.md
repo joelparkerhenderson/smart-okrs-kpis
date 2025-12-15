@@ -9,13 +9,9 @@
 
 # SMART OKRs
 
-SMART OKRs combines the strengths of SMART criteria for goals and the strengths of OKRs for management plans. SMART OKRs are the best way that I've found so far for working with teams in larger organizations. I welcome constructive feedback, issues, requests, and email.
+SMART OKRs combines the strengths of [Specific Measurable Actionable Relatable Timely (SMART)](https://github.com/joelparkerhenderson/smart-criteria) for goal planning and [Objectives and Key Results (OKRs)](https://github.com/joelparkerhenderson/objectives-and-key-results) for management planning.
 
-- **Before you read this page:** you may want to learn about [SMART criteria](https://github.com/joelparkerhenderson/smart-criteria) and [Objectives and Key Results](https://github.com/joelparkerhenderson/objectives-and-key-results); these are hotly debated within industries, and many people have many perspectives, so be sure to do your own research before you try them with teams.
-
-- **If you're from Hacker News:** Read previous [Hacker News comments](https://github.com/joelparkerhenderson/objectives-and-key-results?tab=readme-ov-file#comments).
-
-**SMART criteria for goals:**
+**SMART for goal planning:**
 
 - **Specific**: target one area clearly, precisely, and explicitly.
 - **Measurable**: quantify progress toward success by using metrics.
@@ -23,11 +19,12 @@ SMART OKRs combines the strengths of SMART criteria for goals and the strengths 
 - **Relatable**: causally and logically connected; relevant.
 - **Timely**: occurring at a time that is favorable, reservable, and bounded.
 
-**OKRs for management plans:**
+**OKRs for management planning:**
 
 - **Objective**: what we want to achieve, as a one-sentence summary.
-- **Key Result**: how we produce progress and measure it with metrics.
+- **Key Result**: how we make progress and measure it with metrics.
 
+SMART OKRs are the best way that I've found so far for working with teams in larger organizations. I welcome constructive feedback, issues, requests, and email. You can read many [comments](https://github.com/joelparkerhenderson/objectives-and-key-results?tab=readme-ov-file#comments).
 
 ## Examples
 
@@ -67,7 +64,7 @@ These examples show how to write a SMART bullet point. You can these examples to
 
 **People examples:**
 
-- Interview {n} customers about {purpose} during {timeframe} and report results. Quantify by {metric}. SMART: {details}.
+- Interview {n} customers for {purpose} during {timeframe} and report results. Quantify by {metric}. SMART: {details}.
 
 - Ensure {n} partners are coming to {event} on {date}. Quantify by {metric}. SMART: {details}.
 
@@ -93,56 +90,47 @@ Key Result: {output/outcome/impact}. {measure by}. {SMART details if more info i
 
 Action examples:
 
-- increase, decrease
-- speed up, slow down
-- create, delete
-- add, remove
-- start, finish
-- phase in, phase out
-- upsize, downsize
-- manage, direct, organize, orchestrate
+- increase / decrease
+- speed up / slow down
+- create / delete
+- add / remove
+- start / finish
+- phase in / phase out
+- upsize / downsize
+- manage / direct / organize / orchestrate
 
 Topic examples:
 
 - customer satisfaction
 - employee happiness
 - stakeholder engagement
-- product price, quality, availability
-- financial revenue, earnings, profits
+- product price / quality / availability
+- financial revenue / earnings / profits
 - return on investment (ROI)
 - total cost of ownership (TCO)
 - daily active users (DAU)
-- advertising impressions, clicks, views
-- delivery pick-ups, drop-offs
-- on-time arrivals, departures
-- service success rate, throughput, uptime
-- DORA deployment frequency, lead time, failure rate, recovery time
-- Halstead complexity volume, difficulty, effort
+- advertising impressions / clicks / views
+- delivery pick-ups / drop-offs
+- on-time arrivals / departures
+- service success rate / throughput / uptime
+- DORA deployment frequency / lead time / failure rate / recovery time
+- Halstead complexity volume / difficulty / effort
 
 Amount examples:
 
 - from x to y
 - from 0 to 5 stars
 - from red status to green status
-- by x times
-- by x percent
-- by x probability
-- achieving 4 sigma
-- achieving 5 sigma
-- achieving 6 sigma
+- by x times / percent / probability
+- achieving 4 sigma / 5 sigma / 6 sigma
 
 Time range examples:
 
 - by x date
 - between x date and y date
-- before x date t time
-- after x date t time
-- in calendar week 1
-- in calendar quarter 2
-- in calendar year 2026
-- in fiscal week 1
-- in fiscal quarter 2
-- in fiscal year 2026
+- before x date t time / after x date t time
+- in calendar week 1 / calendar quarter 1 / calendar year 2026
+- in fiscal week 1 / fiscal quarter 2 / fiscal year 2026
 
 Measure examples:
 
