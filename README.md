@@ -1,17 +1,21 @@
 <!--
-  - browser: smart-okrs
+  - browser: smart-okrs-kpis
   - tracker: 63247b3edce046f8d9df7d4a3b22e8ce
-  - version: 1.1.0
-  - updated: 2025-12-15T11:45:41Z
+  - version: 1.2.0
+  - updated: 2026-01-12T08:54:24Z
   - contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   - options: commentable
 -->
 
-# SMART OKRs
+# SMART + OKRs + KPIs
 
-SMART OKRs combines the strengths of [Specific Measurable Actionable Relatable Timely (SMART)](https://github.com/joelparkerhenderson/smart-criteria) for goal planning and [Objectives and Key Results (OKRs)](https://github.com/joelparkerhenderson/objectives-and-key-results) for management planning.
+SMART + OKRs + KPIs combines three management tactics:
 
-**SMART for goal planning:**
+- [Specific Measurable Actionable Relatable Timely (SMART) criteria](https://github.com/joelparkerhenderson/smart-criteria)
+- [Objectives and Key Results (OKRs)](https://github.com/joelparkerhenderson/objectives-and-key-results)
+- [Key Performance Indicators (KPIs)](https://github.com/joelparkerhenderson/key-performance-indicator)
+
+**SMART for better plans:**
 
 - **Specific**: target one area clearly, precisely, and explicitly.
 - **Measurable**: quantify progress toward success by using metrics.
@@ -19,74 +23,71 @@ SMART OKRs combines the strengths of [Specific Measurable Actionable Relatable T
 - **Relatable**: causally and logically connected; relevant.
 - **Timely**: occurring at a time that is favorable, reservable, and bounded.
 
-**OKRs for management planning:**
+**OKRs & KPIs for better goals:**
 
 - **Objective**: what we want to achieve, as a one-sentence summary.
-- **Key Result**: how we make progress and measure it with metrics.
-
-SMART OKRs are the best way that I've found so far for working with teams in larger organizations. I welcome constructive feedback, issues, requests, and email. You can read many [comments](https://github.com/joelparkerhenderson/objectives-and-key-results?tab=readme-ov-file#comments).
+- **Key Result**: how we roll up progress toward our objective.
+- **Key Performance Indictor**: how exactly we measure our progress.
 
 ## Examples
 
-These examples show how to write a SMART bullet point. You can these examples to create your own SMART objective and SMART key results.
-
 **Growth examples:**
 
-- Improve {topic} by {x%} during {timeframe}. Measure by {metric}. SMART: {details}.
+- Improve {topic} by {x%} during {timeframe}. KPI: measure by {details}. SMART: {details}.
 
-- Increase {value} from {x} to {y} by {date}. Measure by {metric}. SMART: {details}.
+- Increase {value} from {x} to {y} by {date}. KPI: measure by {details}. SMART: {details}.
 
-- Grow {amount} by {n} steps by {deadline}. Measure by {metric}. SMART: {details}.
+- Grow {amount} by {n} steps by {deadline}. KPI: measure by {details}. SMART: {details}.
 
 **Scoreboard examples:**
 
-- Boost {topic} score by {x%} during {timeframe}. Score by {metric}. SMART: {details}.
+- Boost {topic} score by {x%} during {timeframe}. KPI: score by {details}. SMART: {details}.
 
-- Raise rating of {topic} from {x} to {y} by {date}. Score by {metric}. SMART: {details}.
+- Raise rating of {topic} from {x} to {y} by {date}. KPI: score by {details}. SMART: {details}.
 
-- Achieve {n} points by {deadline}. Score by {metric}. SMART: {details}.
+- Achieve {n} points by {deadline}. KPI: score by {details}. SMART: {details}.
 
 **Capability examples:**
 
-- Run {process} for {purpose} during {timeframe}. Track by {metric}. SMART: {details}.
+- Run {process} for {purpose} during {timeframe}. KPI: track by {details}. SMART: {details}.
 
-- Launch {feature} for {benefit} on {date}. Track by {metric}. SMART: {details}.
+- Launch {feature} for {benefit} on {date}. KPI: track by {details}. SMART: {details}.
 
-- Complete {task} for {initiative} by {deadline}. Track by {metric}. SMART: {details}.
+- Complete {task} for {initiative} by {deadline}. KPI: track by {details}. SMART: {details}.
 
 **Singular examples:**
 
-- Evaluate {choices} for {purpose} during {timeframe} and pick winner. Confirm by {metric}. SMART: {details}.
+- Evaluate {choices} for {purpose} during {timeframe}. KPI: confirm by {details}. SMART: {details}.
 
-- Present {topic} to {people} on {date} at {place}. Confirm by {metric}. SMART: {details}.
+- Present {topic} to {people} on {date} at {place}. KPI: confirm by {details}. SMART: {details}.
 
-- Get {item} because {reason} by {deadline}. Confirm by {metric}. SMART: {details}.
+- Get {item} because {reason} by {deadline}. KPI: confirm by {details}. SMART: {details}.
 
 **People examples:**
 
-- Interview {n} customers for {purpose} during {timeframe} and report results. Quantify by {metric}. SMART: {details}.
+- Interview {n} customers for {purpose} during {timeframe}. KPI: quantify by {details}. SMART: {details}.
 
-- Ensure {n} partners are coming to {event} on {date}. Quantify by {metric}. SMART: {details}.
+- Ensure {n} partners are coming to {event} on {date}. KPI: quantify by {details}. SMART: {details}.
 
-- Manage {n} employees to accomplish {task} by {deadline}. Quantify by {metric}. SMART: {details}.
+- Manage {n} employees to accomplish {task} by {deadline}. KPI: quantify by {details}. SMART: {details}.
 
 **Process examples:**
 
-- Achieve lead time of {duration} during {timeframe}. Time by {metric}. SMART: {details}.
+- Achieve lead time of {duration} during {timeframe}. KPI: time by {details}. SMART: {details}.
 
-- Fire-drill time to restore {n} times on {date}. Time by {metric}. SMART: {details}.
+- Fire-drill time to restore {n} times on {date}. KPI: time by {details}. SMART: {details}.
 
-- Accelerate service rate from {x} to {y} by {deadline}. Time by {metric}. SMART: {details}.
+- Accelerate service rate from {x} to {y} by {deadline}. KPI: time by {details}. SMART: {details}.
 
 ## Quickstart
 
 For a quickstart, here's a quick template and quick example. You can see many more examples further down on this page.
 
-### SMART OKR template
+### SMART OKR KPI template
 
-Objective: {Do this action} {about this topic} {for this amount} {in this time frame}. {Measure by metric}. {Add any SMART details if more info is needed}.
+Objective: {Do this action} {about this topic} {for this amount} {in this time frame}. KPI: {details}. SMART: {details}.
 
-Key Result: {output/outcome/impact}. {measure by}. {SMART details if more info is needed}.
+Key Result: {output/outcome/impact}. KPI: {details}. SMART: {details}.
 
 Action examples:
 
@@ -147,15 +148,13 @@ Measure examples:
 - enterprise resource planning (ERP) analytics
 - software engineering (SWE) source code metrics
 
-</form>
+### SMART OKR KPI example
 
-### SMART OKR example
+Objective: Improve sales by 10%+ during calendar year 2026. KPI: measure by weekly revenue. SMART: We have two sales channels, which are web sales and phone sales. We intend to track each channel as its own key result because this helps us when we run channel-specific experiments in each channel.
 
-Objective: Improve sales by 10%+ during calendar year 2026. Measure by weekly revenue. SMART: We have two sales channels, which are web sales and phone sales. We intend to track each channel as its own key result because this helps us when we run channel-specific experiments in each channel.
+Key Result 1: Web sales up 5%+. KPI: measure by weekly revenue coming directly to our website. SMART: To make this actionable, we need to create a web analytics step to track revenue per week, then show it in our web dashboard.
 
-Key Result 1: Web sales up 5%+. Measure by weekly revenue coming directly to our website. SMART: To make this actionable, we need to create a web analytics step to track revenue per week, then show it in our web dashboard.
-
-Key Result 2: Phone sales up 5%+. Measure by weekly revenue coming to our phone staff. SMART: This is relevant to our customer satisfaction initiatives, because we want our phone staff to ask one question about satisfaction "How satisfied are you with our products, on a scale of one to ten, where ten is best?".
+Key Result 2: Phone sales up 5%+. KPI: measure by weekly revenue coming to our phone staff. SMART: This is relevant to our customer satisfaction initiatives, because we want our phone staff to ask one question about satisfaction "How satisfied are you with our products, on a scale of one to ten, where ten is best?".
 
 ## SMART
 
