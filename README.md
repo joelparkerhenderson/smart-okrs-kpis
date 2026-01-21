@@ -9,11 +9,12 @@
 
 # SMART + OKRs + KPIs
 
-SMART + OKRs + KPIs combines three management tactics:
+SMART + OKRs + KPIs combines these management tactics:
 
 - [Specific Measurable Actionable Relatable Timely (SMART) criteria](https://github.com/joelparkerhenderson/smart-criteria)
 - [Objectives and Key Results (OKRs)](https://github.com/joelparkerhenderson/objectives-and-key-results)
 - [Key Performance Indicators (KPIs)](https://github.com/joelparkerhenderson/key-performance-indicator)
+- [Maturity models](https://github.com/joelparkerhenderson/maturity-models)
 
 **SMART for better plans:**
 
@@ -28,6 +29,15 @@ SMART + OKRs + KPIs combines three management tactics:
 - **Objective**: what we want to achieve, as a one-sentence summary.
 - **Key Result**: how we roll up progress toward our objective.
 - **Key Performance Indictor**: how exactly we measure our progress.
+
+**Maturity models for better growth:**
+
+- **Level 0**: None/Negligible
+- **Level 1**: Initiate/Investigate
+- **Level 2**: Develop/Describe
+- **Level 3**: Standardize/Specify
+- **Level 4**: Manage/Measure
+- **Level 5**: Orchestrate/Optimize
 
 ## Examples
 
@@ -155,6 +165,10 @@ Objective: Improve sales by 10%+ during calendar year 2026. KPI: measure by week
 Key Result 1: Web sales up 5%+. KPI: measure by weekly revenue coming directly to our website. SMART: To make this actionable, we need to create a web analytics step to track revenue per week, then show it in our web dashboard.
 
 Key Result 2: Phone sales up 5%+. KPI: measure by weekly revenue coming to our phone staff. SMART: This is relevant to our customer satisfaction initiatives, because we want our phone staff to ask one question about satisfaction "How satisfied are you with our products, on a scale of one to ten, where ten is best?".
+
+### SMART OKR KPI maturity Models
+
+A maturity model is a business tool used to assess people/culture, processes/structures, and objects/technology.
 
 ## SMART
 
